@@ -1,12 +1,15 @@
 ---
 layout: post
+title: Back to the homeland!
+subtitle:
+date: 2016-05-20 21:11:27
+author: Anna-Mari
 ---
 
-Eos eu docendi tractatos sapientem, brute option menandri in vix, quando vivendo accommodare te ius. Nec melius fastidii constituam id, viderer theophrastus ad sit, hinc semper periculis cum id. Noluisse postulant assentior est in, no choro sadipscing repudiandae vix. Vis in euismod delenit dignissim. Ex quod nostrum sit, suas decore animal id ius, nobis solet detracto quo te.
+I recently went on an AMAZING trip to Europe with my boyfriend where I visited Spain, Croatia, and Italy. Prior to this trip I had never left the country (I know, CRAZY!) but now I definitely have the traveling bug. All the countries were absolutely beautiful but my favorite had to be Croatia. And as a Croatian, I think my family may have disowned me if it wasn’t.
 
-{% comment %}
-Might you have an include in your theme? Why not try it here!
-{% include my-themes-great-include.html %}
-{% endcomment %}
+In our adventures we tried to experience each city in a way the locals would, but of course there are certain things such as the Dubrovnik City Walls and Diocletian’s Palace in Split that you just can’t miss out on. For those of you who don’t know much about Croatian culture it has a big focus on family – think My Big Fat Greek Wedding – and that pretty much sums it up.
 
-No laudem altera adolescens has, volumus lucilius eum no. Eam ei nulla audiam efficiantur. Suas affert per no, ei tale nibh sea. Sea ne magna harum, in denique scriptorem sea, cetero alienum tibique ei eos. Labores persequeris referrentur eos ei.
+We thought one of the best ways to experience the culture would be by shopping at local markets and cooking dinner ourselves. From our Air BnB we were able to walk this underground “tunnel” (in the picture above ^^^) that came up right in front of a supermarket! There we were able to purchase hand made pasta, fresh vegetables, breads and of course Croatian beer and wine! It was fun to cook pasta using the local ingredients and not feel pressured to head inside of a touristy restaurant. And to top it off we were able to enjoy dinner on the balcony of our Air BnB – which had breathtaking views of the Adriatic Sea and Coastline!
+
+I’ll be posting more of our adventures from Dubrovnik and Split in my upcoming posts – so be on the lookout for that!
